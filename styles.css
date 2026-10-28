@@ -10,6 +10,7 @@ h1 {
 header {
     padding: 1.5rem 2rem;
     border-bottom: 1px solid #674C47;
+    background-color:#01796F;
 }
 nav a {
     color: #01796F;
@@ -24,9 +25,9 @@ main {
 }   
 .metodo-titulo { 
     font-size: 1.1rem;
-    lettter-spacing: 0.05em;
+    letter-spacing: 0.05em;
     text-transform: uppercase;
-    marging-bottom: 0.25rem;
+    margin-bottom: 0.25rem;
     color: #01796F;
 }
 .precio { 
